@@ -17,7 +17,7 @@ def draw(x,y,width,height):
     stroke(random(), 0.5, random(), random())
     strokeWidth(85)
     oval(x,y,width,height)
-    rotate(45, center=(0,1/2))
+    rotate(45, center=(random(),random()*150))
     
 
 def pattern():
