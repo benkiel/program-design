@@ -15,8 +15,10 @@ height = range(0, height(), module)
 def draw(x,y,width,height):
     fill(1,1,1,0)
     stroke(random(), 0.5, random(), random())
-    strokeWidth(60)
+    strokeWidth(80)
     oval(x,y,width,height)
+    blendMode("hue")
+    rotate(50, center=(random(),random()*150))
     
 
 def pattern():
