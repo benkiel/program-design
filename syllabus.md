@@ -211,7 +211,7 @@ While on campus, it is imperative that students follow all public health guideli
 * **Practicing healthy personal hygiene**, including frequent handwashing with soap and warm water for at least 20 seconds and/or using hand sanitizer with at least 60% alcohol. 
 * **Complying with cleaning and sanitation protocols**. Students may be responsible for wiping down common surfaces after use, particularly those that might be shared with others (e.g. classroom desks). Instructions for Sam Fox students [can be found here](https://insidesamfox.wustl.edu/covid-19/public-health-safety-protocols/). 
 
-We take your health and the health of our community seriously. Any Danforth Campus student who is **currently diagnosed with COVID-19, is experiencing symptoms consistent with COVID-19, or has had direct contact with a person with a confirmed or suspected COVID-19 diagnosis must ==remain home and isolate yourself from others==.** Students who have symptoms and/or do not pass the screening protocol described above must call the Habif Health and Wellness Center at 314-935-6666 for additional instructions.
+We take your health and the health of our community seriously. Any Danforth Campus student who is **currently diagnosed with COVID-19, is experiencing symptoms consistent with COVID-19, or has had direct contact with a person with a confirmed or suspected COVID-19 diagnosis must remain home and isolate yourself from others.** Students who have symptoms and/or do not pass the screening protocol described above must call the Habif Health and Wellness Center at 314-935-6666 for additional instructions.
 
 ### Health and Safety, non-COVID
 Because of the variety of equipment in the Kranzberg Illustrated Book Studio, you must wear close-toed shoes in the studio. Likewise, any loose clothing should be tied tight when using the equipment. You are not to use any piece of equipment unless supervised. Please refer to the Bixby Hall Print Shop & Book Studio Updated Studio Rules & Shop Policies document for further information on the use of the Book Studio (you can find this on Canvas).
@@ -248,7 +248,7 @@ Save everything you make from this semester until the end. Early sketches, finis
 * [Cherokee Street](https://cherokeestreet.com). One of Saint Louis’s vibrant neighborhoods. Tacos to vintage shops.
 * The Luminary, [theluminaryarts.com](http://theluminaryarts.com). On Cherokee street, an artist run gallery and studio space.
 
-### Course Policies and Information for Students
+### Course Policies and Information for Students, part two
 
 #### Academic Accommodations
 **Reasonable Accommodations for Disabled Students** - Washington University in St. Louis supports the rights of enrolled students to a full and equal educational opportunity and, in compliance with federal, state, and local requirements, is committed to reasonable accommodations for individuals with documented disabilities. Disabled students for whom accommodations may be necessary must be registered with, and provide their faculty official notification through, WUSTL’s **Disability Resources** [students.wustl.edu/disability-resources](https://students.wustl.edu/disability-resources/). Once established, responsibility for disability-related accommodations and access is shared by DR, faculty, and the student. Please contact Disability Resources at 314.935.5970 or [disabilityresources@wustl.edu](mailto:disabilityresources@wustl.edu). 
