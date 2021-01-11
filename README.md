@@ -13,7 +13,7 @@ __The course assumes no prior experience of programming or knowledge of Python._
 ## Types of projects
 We are going to at least explore the following:
 
-* Hardware (with CircuitPY and miniKbd (https://github.com/andyclymer/minikbd))
+* Hardware (with CircuitPY and miniKbd (https://github.com/andyclymer/minikbd)) (not in 2021, and well, not in 2020 either! Pandemic)
 * Learning to program Python with DrawBot (http://www.drawbot.com)
 * Building your own custom design tools (with Python, Drawbot, perhaps Pagebot) to aid your design process (be it to explore design spaces or to produce a finished piece)
 * Working as a group to build larger tools
