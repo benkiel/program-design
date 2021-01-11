@@ -81,7 +81,7 @@ Owned
 | **Week 3**: February 9 & 11 | Pattern | Pattern— _Final_ |
 | **Week 4**: February 16 & 18 | Poster & Buddy script | **No Class** |
 | **Week 5**: February 23 & 25 | Poster & Buddy script | Poster & Buddy script |
-| **Week 6**: March 2 & 4 | Poster & Buddy script | Poster & Buddy scriptp |
+| **Week 6**: March 2 & 4 | **No Class** | Poster & Buddy script |
 | **Week 7**: March 9 & 11 | Poster & Buddy script _Final_ | Data |
 | **Week 8**: March 16 & 18 | Data | Data |
 | **Week 9**: March 23 & 25 | Data— _Final_ | Generated Zine |
