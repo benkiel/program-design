@@ -282,4 +282,6 @@ If English language proficiency is such that the student may need special assist
 #### Resources for Students
 For information on all available student resources, including disability accommodations, campus safety, mental health resources, writing assistance, grievance procedures, and much more, please go to [insidesamfox.wustl.edu/students/advising/student-campus-resources/](https://insidesamfox.wustl.edu/students/advising/student-campus-resources/)
 
+For information on available student funding opportunities in the Sam Fox School, please look online at [https://www.samfoxschool.wustl.edu/node/13125](https://www.samfoxschool.wustl.edu/node/13125)
+
 ###### This is not an original idea for grading. It is taken from [Mitch Goldstein](http://mitchgoldstein.com). See his [formulation](http://mitchgoldstein.com/teaching/self_eval.pdf) and [twitter thread](https://twitter.com/mgoldst/status/1210370219585277952) about it.
