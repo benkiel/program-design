@@ -133,17 +133,17 @@ Per project grades are determined first and foremost on the process of each proj
 Course grades are not curved, but will be issued on a plus/minus scale. Work handed in after a critique will result in a lowered grade.
 
 ### Explanation of Grading System
-* **Self Evaluation**: 80 points (72%)
+* **Self Evaluation**: 70 points (69%)
 * **Basic Pattern**: 1 point (0.9%)
-* **Pattern**: 5 points (4.5%)
-* **Poster**: 5 points (4.5%)
-* **Buddy Script**: 5 points (4.5%)
-* **Data**: 5 points (4.5%)
-* **Generated Zine**: 5 points (4.5%)
-* **Owned**: 5 points (4.5%)
+* **Pattern**: 5 points (4.9%)
+* **Poster**: 5 points (4.9%)
+* **Buddy Script**: 5 points (4.9%)
+* **Data**: 5 points (4.9%)
+* **Generated Zine**: 5 points (4.9%)
+* **Owned**: 5 points (4.9%)
 
 ### Self Evaluation[¹](https://github.com/benkiel/program-design/blob/master/syllabus.md#this-is-not-an-original-idea-for-grading-it-is-taken-from-mitch-goldstein-see-his-formulation-and-twitter-thread-about-it)
-The majority of your course grade (72%) is based upon your self evaluations. You are in school to improve and better yourself as a designer, not to spend time trying to figure out what your instructor will give an “A” for. Self evaluation is a method for you to be honest about your work, engage in what you find best serves the project and your interests, and build a skill that has life-long value.
+The majority of your course grade (69%) is based upon your self evaluations. You are in school to improve and better yourself as a designer, not to spend time trying to figure out what your instructor will give an “A” for. Self evaluation is a method for you to be honest about your work, engage in what you find best serves the project and your interests, and build a skill that has life-long value.
 
 **Criteria** 
 You’ll be evaluating three parts of your activity in class:
